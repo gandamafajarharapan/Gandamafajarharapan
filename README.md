@@ -9,14 +9,14 @@
 
 ## Education:
 
-#### 1. [Universitas Persads Indonesia Y.A.I](https://www.upi-yai.ac.id) | Bachelor of Information System Egineering | Jakarta `2017-2021`
+#### [Universitas Persads Indonesia Y.A.I](https://www.upi-yai.ac.id) | Bachelor of Information System Egineering | Jakarta `2017-2021`
    - Member of the Enterpreneurship text group : Boarding search System
    - Intern at Museum Tekstil Jakarta 
 
 
 
 ## Work Experience:
-#### 1. [Museum Tekstil ](https://www.instagram.com/museum_tekstiljkt/?hl=en) | Administration Database collection | Jakarta `Oct'2020 - Aug 2021`
+####  [Museum Tekstil ](https://www.instagram.com/museum_tekstiljkt/?hl=en) | Administration Database collection | Jakarta `Oct'2020 - Aug 2021`
    - inputting and updating collection data and grouping the data with a table of originating collection areas to make it easier for the inventory process
    - Participate in enlivening Jakarta's 494th Birthday with a short video maker with the theme Jakarta Rising on duty as a camera person
    - The success of the Fauna Decorative Exhibition in Indonesian literature by serving as Operation and cameramen in the process of making video tapping
