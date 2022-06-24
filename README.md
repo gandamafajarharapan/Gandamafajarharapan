@@ -22,7 +22,7 @@
    - The success of the Fauna Decorative Exhibition in Indonesian literature by serving as Operation and cameramen in the process of making video tapping
    - Assisting the Administration of the SPJ Making Process for the Textile Museum
    - Helping to record WFH attendance data for Textile Museum Employees
-   - Making a Final Project with the title "Design of Textile Museum Collection Inventory Information System" aims to be able to assist in the process of data collection processing activities and can facilitate the search for collection data
+   - Making a Final Project with the title "RANCANG BANGUN SISTEM INFORMASI INVENTARIS KOLEKSI PADA MUSEUM TEKSTIL JAKARTA" aims to be able to assist in the process of data collection processing activities and can facilitate the search for collection data
 
 ---
 
