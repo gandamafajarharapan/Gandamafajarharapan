@@ -13,8 +13,7 @@
    - Member of the Enterpreneurship text group : Boarding search System
    - Intern at Museum Tekstil Jakarta 
 
- #### 2. [SMK KAMPUNG JAWA](https://smkkampungjawajkt.smarteschool.id/web) | Intalasi Listrik | Jakarta `2012-2015`
-   - 
+
 
 ## Work Experience:
 #### 1. [Museum Tekstil ](https://www.instagram.com/museum_tekstiljkt/?hl=en) | Administration Database collection | Jakarta `Oct'2020 - Aug 2021`
