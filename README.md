@@ -42,7 +42,7 @@
 ### Connect with me:
 
 [![website](./img/google-light.svg)](https://linktr.ee/gandamafajarharapan#gh-light-mode-only)
-[![website](./img/safari-dark.svg)](https://linktr.ee/gandamafajarharapan#gh-dark-mode-only)
+[![website](./img/google-dark.svg)](https://linktr.ee/gandamafajarharapan#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/gandamak6r#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/gandamak6r#gh-dark-mode-only)
