@@ -11,6 +11,8 @@
 #### [Universitas Persads Indonesia Y.A.I](https://www.upi-yai.ac.id) | Bachelor of Information System Egineering | Jakarta `2017-2021`
    - Member of the Enterpreneurship text group : Boarding search System
    - Intern at Museum Tekstil Jakarta 
+   - Member in FORKOM Pembangunan Pemuda
+   - Participant at Technical Guidance Strengthening of SDM Museum Jakarta
 
 
 
