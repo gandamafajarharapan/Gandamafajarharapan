@@ -1,7 +1,6 @@
 # Hi there, I'm Gandama Fajar Harapan - aka [gandamafajarharapan]👋
 ## About me:
-- 🔭 I’m currently working at jobseeker
-- 🌱 I’m currently learning Html,PHP,Javascrip and mysql
+
 - 👯 I’m looking to collaborate as Data Analyst and Back-end Developer
 - 🤔 I’m looking for suggest for Automation, Data Analyst and Back-end Developer
 - 💬 Ask me about anything
